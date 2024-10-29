@@ -28,9 +28,9 @@ const services = [
     description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum sint tenetur quaerat!",
     href: ""
   },
-]
+] 
 
-import {delay, motion} from "framer-motion"
+import {motion} from "framer-motion"
 
 const Services = () => {
   return (
